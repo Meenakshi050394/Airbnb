@@ -37,10 +37,10 @@ Dashboard Creation : Utilize Tableau or Power BI to create a comprehensive dashb
 Conclusion
 The goal of this project is to to analyze Airbnb data & perform data cleaning and preparation, develop interactive geospatial visualizations, based trends in the Airbnb marketplace.
 
-License
+License:
 This project is licensed under the MIT License. Please review the LICENSE file for more details.
 
-Contact
+Contact:
 📧 Email: meenakshi.sriram18@gmail.com
 
 🌐 LinkedIn: https://www.linkedin.com/in/meenakshihariharakrishnan/
